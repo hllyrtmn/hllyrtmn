@@ -1,4 +1,4 @@
-# <div align="center">👨‍💻 Halil Yurtman</div>
+# <div align="center">👨‍💻 Halil Can Yurtman</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=DD0031&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Backend+Specialist;Database+Enthusiast;Code+Craftsman" alt="Typing SVG" />
@@ -14,7 +14,7 @@
 ## <div align="center">🌟 About Me</div>
 
 <div align="center">
-  <p>4+ years of experience developing enterprise solutions with Django, .NET, and Angular ecosystems.</p>
+  <p>5+ years of experience developing enterprise solutions with Django, .NET, and Angular ecosystems.</p>
   <p>Passionate about clean architecture, performance optimization, and database design.</p>
 </div>
 
@@ -86,7 +86,7 @@
 
 ```mermaid
 mindmap
-  root((Halil's Focus))
+  root((hllyrtmn))
     Microservices
       API Gateways
       Service Discovery
