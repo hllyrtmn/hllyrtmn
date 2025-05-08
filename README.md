@@ -145,11 +145,6 @@ mindmap
   </a>
 </div>
 
-<div align="center">
-  <br />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
 ---
 
 <div align="center">
