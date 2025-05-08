@@ -1,4 +1,4 @@
-# <div align="center">👨‍💻 Halil Can Yurtman</div>
+# <div align="center">👨‍💻 Halil Yurtman</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=DD0031&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Backend+Specialist;Database+Enthusiast;Code+Craftsman" alt="Typing SVG" />
@@ -78,7 +78,10 @@
 ## <div align="center">🚀 Current Projects & Interests</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hllyrtmn&repo=my-awesome-project&theme=radical" alt="Project Card" />
+  <!-- Proje kartını burada göstermek için GitHub'da bir repo oluşturun ve aşağıdaki URL'de repo adını değiştirin -->
+  <!-- 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hllyrtmn&repo=REPO_ADINIZ&theme=radical" alt="Project Card" />
+  -->
 </div>
 
 ```mermaid
