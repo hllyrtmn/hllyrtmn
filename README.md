@@ -1,4 +1,4 @@
-# <div align="center">👨‍💻 Halil Yurtman</div>
+# <div align="center">👨‍💻 Halil Can Yurtman</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=DD0031&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Backend+Specialist;Database+Enthusiast;Code+Craftsman" alt="Typing SVG" />
